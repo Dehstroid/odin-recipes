@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    text-align: center;
+    color: greenyellow;
+}
+
+.header {
+    color: blueviolet;
+    font-weight: 700;
+    font-size: 64px;
+    font-family: brush script, cursive;
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+}
