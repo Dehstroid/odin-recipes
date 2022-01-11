@@ -15,3 +15,5 @@ Once I complete this project, I will have demonstrated the following abilities:
 -images
 
 -site layout & organization
+
+-CSS style sheets
